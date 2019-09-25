@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+    
+
+}
+
+.caixadetexto{
+    border: 1px solid #000000;
+
+}
+
+#ano {
+    font-size: 25px;
+
+}
